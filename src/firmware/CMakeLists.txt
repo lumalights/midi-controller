@@ -1,5 +1,5 @@
 add_executable(firmware
-        firmware.cpp
+        main.cpp
         )
 
 # pull in common dependencies
