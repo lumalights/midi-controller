@@ -2,6 +2,10 @@
 #include <stdio.h>
 
 
+int main () {
+
+};
+
 
 class MFader {
     private:
